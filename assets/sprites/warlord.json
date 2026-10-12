@@ -1,0 +1,149 @@
+{
+  "spritesheet_path": "assets/sprites/warlord.png",
+  "frame_width": 104,
+  "frame_height": 112,
+  "anchor": [
+    52,
+    106
+  ],
+  "animations": {
+    "idle": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 104,
+        "y": 0,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 208,
+        "y": 0,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 312,
+        "y": 0,
+        "width": 104,
+        "height": 112
+      }
+    ],
+    "walk": [
+      {
+        "x": 0,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 104,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 208,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 312,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 416,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 520,
+        "y": 112,
+        "width": 104,
+        "height": 112
+      }
+    ],
+    "attack": [
+      {
+        "x": 0,
+        "y": 224,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 104,
+        "y": 224,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 208,
+        "y": 224,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 312,
+        "y": 224,
+        "width": 104,
+        "height": 112
+      }
+    ],
+    "hurt": [
+      {
+        "x": 0,
+        "y": 336,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 104,
+        "y": 336,
+        "width": 104,
+        "height": 112
+      }
+    ],
+    "dead": [
+      {
+        "x": 0,
+        "y": 448,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 104,
+        "y": 448,
+        "width": 104,
+        "height": 112
+      },
+      {
+        "x": 208,
+        "y": 448,
+        "width": 104,
+        "height": 112
+      }
+    ]
+  },
+  "frame_ms": {
+    "idle": 170,
+    "walk": 85,
+    "attack": 80,
+    "hurt": 120,
+    "dead": 130
+  },
+  "loop": {
+    "idle": true,
+    "walk": true,
+    "attack": false,
+    "hurt": false,
+    "dead": false
+  }
+}

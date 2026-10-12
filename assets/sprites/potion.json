@@ -1,0 +1,43 @@
+{
+  "spritesheet_path": "assets/sprites/potion.png",
+  "frame_width": 40,
+  "frame_height": 40,
+  "anchor": [
+    20,
+    34
+  ],
+  "animations": {
+    "idle": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      },
+      {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40
+      }
+    ]
+  },
+  "frame_ms": {
+    "idle": 140
+  },
+  "loop": {
+    "idle": true
+  }
+}

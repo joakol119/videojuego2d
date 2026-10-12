@@ -1,0 +1,66 @@
+{
+  "tile_width": 64,
+  "tile_height": 32,
+  "tiles": {
+    "sand_0": {
+      "file": "assets/tiles/sand_0.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "sand_1": {
+      "file": "assets/tiles/sand_1.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "sand_2": {
+      "file": "assets/tiles/sand_2.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "sand_3": {
+      "file": "assets/tiles/sand_3.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "dirt": {
+      "file": "assets/tiles/dirt.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "cracked": {
+      "file": "assets/tiles/cracked.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "concrete": {
+      "file": "assets/tiles/concrete.png",
+      "height": 0,
+      "kind": "floor"
+    },
+    "wall": {
+      "file": "assets/tiles/wall.png",
+      "height": 44,
+      "kind": "block"
+    },
+    "crate": {
+      "file": "assets/tiles/crate.png",
+      "height": 26,
+      "kind": "block"
+    },
+    "barrel": {
+      "file": "assets/tiles/barrel.png",
+      "height": 28,
+      "kind": "block"
+    },
+    "cactus": {
+      "file": "assets/tiles/cactus.png",
+      "height": 46,
+      "kind": "block"
+    },
+    "rock": {
+      "file": "assets/tiles/rock.png",
+      "height": 18,
+      "kind": "block"
+    }
+  }
+}
